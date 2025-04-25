@@ -15,6 +15,6 @@
     "name": "Takzib",
     "cover": "https://beh-music.com/wp-content/uploads/2023/05/Hiphopologist-Takzib.webp",
     "artist": "Hiphopologist",
-    "songlink": "https://dl.leymermusic.ir/2023/05/26/Hiphopologist%20-%20Takzib.mp3"
+    "songlink": "https://dl.kingmusics.ir/dl/03/05/Takzib%20-%20Mikonam%20-%20128.mp3"
   }
 ]
