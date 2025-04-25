@@ -15,6 +15,6 @@
     "name": "Takzib",
     "cover": "https://beh-music.com/wp-content/uploads/2023/05/Hiphopologist-Takzib.webp",
     "artist": "Hiphopologist",
-    "songlink": "https://www.limusic.org/wp-content/uploads/2023/05/hs-Hiphopologist-Takzib.mp3"
+    "songlink": "https://beh-music.com/wp-content/uploads/2023/05/Hiphopologist-Takzib.webp"
   }
 ]
